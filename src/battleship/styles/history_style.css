@@ -1,0 +1,9 @@
+header {
+    pref-height: 45px;
+    pref-width: 598px;
+}
+
+#body {
+    -fx-padding: 10px;
+    -fx-alignment: center;
+}
